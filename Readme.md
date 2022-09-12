@@ -7,7 +7,7 @@
     This is a little plugin written in C and fully compatible with C++ (tested with g++ and gcc), 
     Which can make a screenshot from an openGL color buffer an store the result in an PNG file.
 
- All the process consist to read the pixels in the openglBuffer and store it to a pixelBuffer, then write the pixel buffer in the specified file.
+    All the process consist to read the pixels in the openglBuffer and store it to a pixelBuffer, then write the pixel buffer in the specified file.
 
 **Details**
     
