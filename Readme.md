@@ -1,7 +1,3 @@
- * author Mogou Igor Green 
- * mail igormogou86@gmail.com
- * date 2022-07-10
-
 **Resume**
     
     This is a little plugin written in C and fully compatible with C++ (tested with g++ and gcc), 
